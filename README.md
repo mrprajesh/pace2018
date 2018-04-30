@@ -1,14 +1,24 @@
-# PACE 2018
-This is codebase for submission to PACE 2018 Challenge.
+# PACE 2018 - Resilience
+## How to build and run
+1. Run make
+2. It creates an executable called st-heuristic.
+3. Execute with an input redirection.
+```
+./st-heuristic < t3-public/instance001.gr
+```
 
-## Steiner Tree Problem
+## Team details
+**Team Name**: Resilience
 
-### Track 1
-Public instance in track 1 is of low terminal instances where in we need output the exact optimum steiner tree.
+**Team Composition/lab**: Theoretical Computer Science Lab.
 
-### Track 2
-In this track we need to solve the steiner tree problem using a tree decomposition of the graph.
+**Institution**: Indian Institute of Technology Madras, India.
 
-### Track 3
-This is solved based on an approximation algorithm or some heuristic algorithm based on the instances.
+*Team Members*:
+1. R.Vijayaragunathan
+2. N.S.Narayanaswamy
+3. Rajesh Pandian M.
+
+*Date*: 01-May-2018
+
 
