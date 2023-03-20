@@ -17,9 +17,10 @@
 **Institution**: [Indian Institute of Technology Madras](https://www.iitm.ac.in), India.
 
 *Team Members*:
-1. R.Vijayaragunathan
-2. [N.S.Narayanaswamy](http://www.cse.iitm.ac.in/~swamy)
-3. [Rajesh Pandian M.](http://www.cse.iitm.ac.in/~mrprajesh)
+1. [Rajesh Pandian M.](http://www.cse.iitm.ac.in/~mrprajesh)
+2. [R.Vijayaragunathan](https://www.linkedin.com/in/vijayaragunathan-ramamoorthi-a3951986/)
+3. [N.S.Narayanaswamy](http://www.cse.iitm.ac.in/~swamy)
+
 
 *Date*: 01-May-2018
 
